@@ -91,4 +91,4 @@ Oslo Metropolitan University (OsloMet), Norway
 - 📧 behrouza@oslomet.no
 - 🌐 [Personal Website](https://sites.google.com/view/behrouz-arash)
 - 🐙 [GitHub](https://github.com/behrouz-arash)
-- 📞 +47 48274957
+  
